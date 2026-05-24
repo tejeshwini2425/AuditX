@@ -74,6 +74,8 @@ auditx/
 └── README.md
 
 
+video : https://youtu.be/jSWldjypC2Y
 
+Pich Deck  : https://docs.google.com/presentation/d/1TgTv-IBfU0m0j9lVg2UmqxIA3Pf93Fk-/edit?usp=sharing&ouid=107474319468556912199&rtpof=true&sd=true
 
 
