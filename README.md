@@ -58,12 +58,19 @@ AuditX automates code review using AI:
 ## 📂 Project Structure
 auditx/
 ├── src/
+
 │ ├── App.jsx
+
 │ ├── index.css
+
 │ └── main.jsx
+
 ├── server.js
+
 ├── .env
+
 ├── package.json
+
 └── README.md
 
 
